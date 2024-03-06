@@ -1,0 +1,26 @@
+{
+  "name": "number-guessing-game-eureka",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/andersonblasik/ubiquitous-eureka.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andersonblasik/ubiquitous-eureka/issues"
+  },
+  "homepage": "https://github.com/andersonblasik/ubiquitous-eureka#readme",
+  "dependencies": {
+    "curl": "^0.1.4",
+    "guess": "^1.0.2",
+    "math": "^0.0.3",
+    "url-shortener-potential": "^1.0.0",
+    "yargs": "^17.7.2"
+  }
+}
